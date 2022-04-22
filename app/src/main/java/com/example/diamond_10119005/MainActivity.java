@@ -7,6 +7,11 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+//NIM : 10119005
+//Nama : Hayin Ananta
+//Kelas : IF-1
+//Tanggal Pembuatan : 22-04-2022
+
 public class MainActivity extends AppCompatActivity {
     private Button btnProfile,btnLogout;
     @Override
